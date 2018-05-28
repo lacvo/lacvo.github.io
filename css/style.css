@@ -909,7 +909,7 @@ p {
     position: fixed;
     padding-top: 10px;
     top: 0; overflow: auto;
-    background: #ffffff;
+    background: #c1c1c180;
     -webkit-box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.15);
     box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.15);   
    -webkit-animation-name: animationFade;
