@@ -211,7 +211,7 @@ p {
     padding-bottom: 140px;
 }
 .padding-top-5 {
-    padding-top: 5px;
+    padding-top: 50px;
 }
 .padding-bottom-5 {
     padding-bottom: 5px;
@@ -312,6 +312,7 @@ p {
 /* Parapgrapht Sizes */
 .paragraph-13 {
     font-size: 13px;
+    padding-top: 50px;
 }
 .paragraph-14 {
     font-size: 14px;
@@ -2376,7 +2377,7 @@ p {
 }
 .footer-logo img {
     width: 100%;
-    padding-left: 70px;
+    
 }
 
 /* Blog.html + Blog-detail.html Page Styling */
@@ -2811,7 +2812,8 @@ p {
         padding-top: 35px;
     }
     .padding-bottom-70 {
-        padding-bottom: 35px;
+        padding-bottom: 25px;
+        padding-top: 0px;
     }
     .button-setting {
         padding: 12px 28px !important;
@@ -2970,6 +2972,7 @@ p {
    /*Footer*/
    .footer-copyright-text {
         text-align: center;
+
     }
     .footer-links-inner a {
         font-size: 12px;
