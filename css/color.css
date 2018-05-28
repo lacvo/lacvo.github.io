@@ -55,12 +55,14 @@
     color: #ffffff;
 }
 .text-color-dark {
-    color: #fafafa !important;
+    color: #333333 !important
 }
 .text-color-darkgrey {
     color: #797979;
 }
-
+.text-color-copyright {
+    color: #fafafa;
+}
 
 
 /* Backgrounds Setting */
