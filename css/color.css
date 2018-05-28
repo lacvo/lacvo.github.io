@@ -125,7 +125,7 @@
    background: #fff;
 }
 .navbar.fixed-menu {
-    background: #c1c1c1;
+    background: #c1c1c180;
     -webkit-box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.15);
     box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.15);    
 }
