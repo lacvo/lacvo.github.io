@@ -204,7 +204,7 @@ p {
 
 /* Page Spaces Classes */
 .padding-top-bottom {
-    padding: 100px 0;
+    padding: 70px 0;
 }
 .padding-top {
     padding-top: 140px;
@@ -213,7 +213,7 @@ p {
     padding-bottom: 140px;
 }
 .padding-top-5 {
-    padding-top: 50px;
+    padding-top: 25px;
 }
 .padding-bottom-5 {
     padding-bottom: 5px;
@@ -314,7 +314,7 @@ p {
 /* Parapgrapht Sizes */
 .paragraph-13 {
     font-size: 13px;
-    padding-top: 50px;
+    padding-top: 30px;
 }
 .paragraph-14 {
     font-size: 14px;
@@ -1804,6 +1804,20 @@ h7:before {
    color: #333;
 }
  
+
+
+/* quote */
+/* 
+.quoteText {
+    padding: .5em;
+ 
+    font-size: 65px;
+    color: #fff;
+    fill: #fff;
+} */
+
+
+/* //quote */
 /*custom bullet & arrow style*/
 .tparrows {
    -webkit-border-radius: 50%;
@@ -2314,9 +2328,20 @@ h7:before {
 
 /*----- Sponsors Slider -----*/
 .sponsor-image-outer {
-    width: 45%;
+    width: 70%;
     display: block;
     margin: 0 auto;
+}
+.sponsor-image-outer img{
+    filter: gray;
+    -webkit-filter: grayscale(100%); 
+    opacity: .7;
+}
+.sponsor-image-outer img:hover{
+  filter: none;
+  -webkit-filter: grayscale(0%);
+  opacity: 1;
+
 }
 
 /*----- Contact Form Styling Start -----*/
@@ -2452,7 +2477,7 @@ h7:before {
 }
 .footer-logo img {
     width: 100%;
-    
+    padding: 15px;
 
 }
 
